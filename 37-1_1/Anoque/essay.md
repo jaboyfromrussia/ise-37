@@ -20,3 +20,16 @@
 Нельзя стоять на одном месте, на одной технологии. Конечно мой опыт маленький, разнообразия почти нет, но думаю успею много чего изучить.Инодга мне кажется, что нифига не могу. Хотя вроде как и получается. Бывают дни, когда совсем лень что-либо изучать, как будто мозг не хочет принимать информацию, хотя сериальчики - пожалуйста.В некоторые дни на столько прёт, что смотришь на время и удивляешься - куда это несколько часов так быстро улетели? :DСейчас я стараюсь часто писать всякую фигню и заливать на github. Пробую всякое. Конечно там далеко не всё, т.к. начал заливать что-то около месяца назад. (Можете глянуть, там же видно когда я и что пушил).По сути там безделушки. Но стараюсь писать каждый день. Сейчас главное закончить один проект и уже можно заняться ещё чем-нибудь. 
 
 > Человеческий мозг - странная штука, в один день тебя прёт, в другой ты - **бесполезная биомасса**.
+
+# Професии, которые я хотел бы **познать**
+
+FRONT-END DEVELOPER
+Front-end developers don’t just create static sites – they also know how to code up interactive pages and web apps. Tasks: Front-end development could be right for you if you like the idea of prototyping and building interactive sites, debugging across browsers, and managing user data. Skills: Git + GitHub, JavaScript, jQuery, Grunt/Gulp, SASS, HTML, CSS, frameworks like Bootstrap, Node.js, AngularJS, and Ember.js.
+
+FULL-STACK DEVELOPER
+Have you ever heard the term “the whole enchilada?” Full-stack developers can see projects through from start (prototyping, planning) to middle (designing, building) to finish (deploying, managing). Tasks: Covering the full-stack as a developer means building and managing platforms and working across teams to create projects, code projects, and manage databases. Skills: Anything!! Git + GitHub, HTML, CSS, SASS, JavaScript, Java, MySQL, Ruby, Python, Responsive Web Design, jQuery, frameworks, PHP, Apache
+
+FRAMEWORKS SPECIALIST
+When you’re coding, you don’t always start from scratch. Frameworks like AngularJS, Ember.js, and Node.js, provide just that – a framework to work in. Tasks: If you’ve got frameworks down pat, you can use them as a specialist to design, prototype, and write code for web projects. Skills: Git + GitHub, HTML, CSS, JavaScript, jQuery, a framework like Node.js, AngularJS, Ember.js, etc.
+
+Front End Developer Senior Web Administrator Senior Web Developer Web Administrator Web Developer Webmaster
